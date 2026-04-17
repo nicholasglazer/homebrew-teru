@@ -1,8 +1,8 @@
 class Teru < Formula
   desc "AI-first terminal emulator, multiplexer, and tiling manager"
   homepage "https://github.com/nicholasglazer/teru"
-  url "https://github.com/nicholasglazer/teru/archive/refs/tags/v0.3.9.tar.gz"
-  sha256 "2502117d5ee2aaf17985cc5f8d434d7d01589c4154394aa2758a41e6043a946a"
+  url "https://github.com/nicholasglazer/teru/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "d0d3a80a0628425d0f78c80701534a2b6e03f151beb7cdb048c0c27375bd4af5"
   license "MIT"
   head "https://github.com/nicholasglazer/teru.git", branch: "main"
 
